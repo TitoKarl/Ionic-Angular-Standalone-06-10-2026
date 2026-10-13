@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "corporateappcarmelo": {
+      "root": "corporateAppCarmelo",
+      "framework": "ionic-angular"
+    },
+    "dam2-productos": {
+      "root": "dam2-productos/dam2-productos",
+      "framework": "ionic-angular"
+    }
+  },
+  "rewrites": []
+}
